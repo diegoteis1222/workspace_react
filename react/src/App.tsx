@@ -8,7 +8,6 @@ import { Suspense } from "react";
 
 function App() {
   return (
-    
     <BrowserRouter
       future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
     >
@@ -21,7 +20,7 @@ function App() {
               .map(({ to, component: Component }) => (
                 <Route key={to} path={to || ""} element={<Component />} />
               ))}
-            
+
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
