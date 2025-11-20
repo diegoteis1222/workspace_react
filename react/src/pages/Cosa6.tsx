@@ -12,7 +12,7 @@ function Cosa6() {
   const formatearTextoMayus = (texto: string) => {
     return texto.toUpperCase();
   };
-  
+
   return (
     <MiComponente
       mensaje="Cebem"

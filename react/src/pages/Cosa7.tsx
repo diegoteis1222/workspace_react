@@ -5,7 +5,6 @@ function Cosa7() {
 
   function handleClick() {
     setNumero(numero + 1);
-    console.log(numero);
   }
   return <div onClick={handleClick}>{numero}</div>;
 }
