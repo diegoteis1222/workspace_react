@@ -74,6 +74,42 @@ export const routes = [
     component: React.lazy(() => import("../pages/Cosa11")),
   },
   {
+    to: "Cosa12",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa12")),
+  },
+  {
+    to: "Cosa13",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa13")),
+  },
+  {
+    to: "Cosa14",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa14")),
+  },
+  {
+    to: "Cosa15",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa15")),
+  },
+  {
+    to: "Cosa16",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa16")),
+  },
+  {
+    to: "Cosa17",
+    title: "Componente usando clases",
+    description: "Muestra como crear un componente usando clases. Obsoleto.",
+    component: React.lazy(() => import("../pages/Cosa17")),
+  },
+  {
     to: "Ejer1",
     title: "Componente usando clases",
     description: "Muestra como crear un componente usando clases. Obsoleto.",

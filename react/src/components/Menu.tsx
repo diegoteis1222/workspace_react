@@ -5,6 +5,7 @@ function Menu() {
     <nav>
       <ul>
         <Link to="/">Home </Link>
+
         <Link to="/Cosa1">Cosa1 </Link>
         <Link to="/Cosa2">Cosa2 </Link>
         <Link to="/Cosa3">Cosa3 </Link>
@@ -16,6 +17,13 @@ function Menu() {
         <Link to="/Cosa9">Cosa9 </Link>
         <Link to="/Cosa10">Cosa10 </Link>
         <Link to="/Cosa11">Cosa11 </Link>
+        <Link to="/Cosa12">Cosa12 </Link>
+        <Link to="/Cosa13">Cosa13 </Link>
+        <Link to="/Cosa14">Cosa14 </Link>
+        <Link to="/Cosa15">Cosa15 </Link>
+        <Link to="/Cosa16">Cosa16 </Link>
+        <Link to="/Cosa17">Cosa17 </Link>
+
         <Link to="/Ejer1">Ejer1 </Link>
         <Link to="/Ejer2">Ejer2 </Link>
         <Link to="/Ejer3">Ejer3 </Link>
