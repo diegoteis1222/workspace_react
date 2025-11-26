@@ -27,6 +27,10 @@ function Menu() {
         <Link to="/Ejer1">Ejer1 </Link>
         <Link to="/Ejer2">Ejer2 </Link>
         <Link to="/Ejer3">Ejer3 </Link>
+        <Link to="/Ejer4">Ejer4 </Link>
+        <Link to="/Ejer5">Ejer5 </Link>
+        <Link to="/Ejer6">Ejer6 </Link>
+
       </ul>
     </nav>
   );
