@@ -89,7 +89,11 @@ export const routes = [
     to: "Cosa20",
     component: React.lazy(() => import("../pages/Cosa20")),
   },
-  
+  {
+    to: "Cosa21",
+    component: React.lazy(() => import("../pages/Cosa21")),
+  },
+
   /* --------------------------------------------------- */
 
   {
@@ -119,5 +123,9 @@ export const routes = [
   {
     to: "Ejer7",
     component: React.lazy(() => import("../pages/Ejer7")),
+  },
+  {
+    to: "Ejer8",
+    component: React.lazy(() => import("../pages/Ejer8")),
   },
 ];

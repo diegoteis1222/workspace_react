@@ -46,6 +46,7 @@ function Menu() {
           <Link to="/Ejer5">Ejer5 </Link>
           <Link to="/Ejer6">Ejer6 </Link>
           <Link to="/Ejer7">Ejer7 </Link>
+          <Link to="/Ejer8">Ejer8 </Link>
         </li>
       </ul>
     </nav>
