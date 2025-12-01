@@ -93,6 +93,14 @@ export const routes = [
     to: "Cosa21",
     component: React.lazy(() => import("../pages/Cosa21")),
   },
+  {
+    to: "Cosa22",
+    component: React.lazy(() => import("../pages/Cosa22")),
+  },
+    {
+    to: "Cosa23",
+    component: React.lazy(() => import("../pages/Cosa23")),
+  },
 
   /* --------------------------------------------------- */
 

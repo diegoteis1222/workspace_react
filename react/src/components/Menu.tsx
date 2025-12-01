@@ -1,8 +1,9 @@
 import { Link } from "react-router-dom";
+import "./Menu.css";
 
 function Menu() {
   return (
-    <nav>
+    <nav className="menu">
       <ul>
         <Link to="/">Home </Link>
         <li>
@@ -35,6 +36,8 @@ function Menu() {
         <li>
           {" "}
           <Link to="/Cosa21">Cosa21 </Link>
+          <Link to="/Cosa22">Cosa22 </Link>
+          <Link to="/Cosa23">Cosa23 </Link>
         </li>
 
         <li>
