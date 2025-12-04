@@ -38,6 +38,7 @@ function Menu() {
           <Link to="/Cosa21">Cosa21 </Link>
           <Link to="/Cosa22">Cosa22 </Link>
           <Link to="/Cosa23">Cosa23 </Link>
+          <Link to="/Cosa24">Cosa24 </Link>
         </li>
 
         <li>
@@ -50,6 +51,14 @@ function Menu() {
           <Link to="/Ejer6">Ejer6 </Link>
           <Link to="/Ejer7">Ejer7 </Link>
           <Link to="/Ejer8">Ejer8 </Link>
+          <Link to="/Ejer9">Ejer9 </Link>
+          <Link to="/Ejer10">Ejer10 </Link>
+        </li>
+
+        <li>
+          {" "}
+          <Link to="/Ejer11">Ejer11 </Link>
+          <Link to="/Ejer12">Ejer12 </Link>
         </li>
       </ul>
     </nav>
